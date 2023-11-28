@@ -1,0 +1,19 @@
+**Made By**
+Mohit Alpesh Rathod
+Aryan shrivastava
+
+
+
+
+**Admin Login Details**
+
+Email   : admin@mail.com
+Password: Password@123
+
+
+**Teacher Login Details**
+
+Email   : RoshniRamnani@mail.com
+Password: pass123
+
+**Default password for teacher's account: pass123**
